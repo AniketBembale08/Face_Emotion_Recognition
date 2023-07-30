@@ -45,7 +45,7 @@ The project achieves impressive results in accurately recognizing emotions from 
 
 
 ## ⭐️Contributing
-Feel free to contribute to this project by submitting pull requests or opening issues. Happy face detection! 😄
+Feel free to contribute to this project by submitting pull requests or opening issues. Happy face emotion recognition! 😄
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
