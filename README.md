@@ -14,6 +14,17 @@ Face_Emotion_Recognition/
 |-- models/
   |-- model.h5
 
+## ⭐️Project Structure
+face-detection/
+|-- data/
+    |-- images
+|-- models/
+    |-- model.yaml
+    |-- haarcascade_frontalface_default.xml
+|-- collect_data.py
+|-- data_preprocess.py
+|-- train.py
+|-- test.py
   
 
 ## ⭐️Introduction
