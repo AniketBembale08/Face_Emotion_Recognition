@@ -5,27 +5,15 @@
 
 ## ⭐️Project Structure
 
-Face_Emotion_Recognition/
-|-- README.md
-|-- requirements.txt
-|-- face_emotion.ipynb
-|-- image_test.py
-|-- realtime_test.py
-|-- models/
-  |-- model.h5
+    Face_Emotion_Recognition/
+    |-- README.md
+    |-- requirements.txt
+    |-- face_emotion.ipynb
+    |-- image_test.py
+    |-- realtime_test.py
+    |-- models/
+      |-- model.h5
 
-## ⭐️Project Structure
-face-detection/
-|-- data/
-    |-- images
-|-- models/
-    |-- model.yaml
-    |-- haarcascade_frontalface_default.xml
-|-- collect_data.py
-|-- data_preprocess.py
-|-- train.py
-|-- test.py
-  
 
 ## ⭐️Introduction
 Facial Emotions Detection is an exciting computer vision project that aims to automatically detect and classify emotions expressed in human faces. This project utilizes deep learning techniques to recognize emotions such as happiness, sadness, anger, fear, surprise, disgust, and neutrality from facial expressions captured in images and real-time video streams.
