@@ -18,6 +18,8 @@ The Facial Emotions Detection project is a computer vision application that aims
     |-- realtime_test.py
     |-- models/
       |-- model.h5
+    |-- test_images
+      |--test.jpg
 
 
 ## ⭐️Introduction
