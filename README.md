@@ -1,7 +1,12 @@
 # Face_Emotion_Recognition
 
 
-![image](https://github.com/AniketBembale08/Face_Emotion_Recognition/assets/121147984/00a3cd2f-b62f-4d07-b938-8208cc69f0b1)
+![image](https://github.com/AniketBembale08/Face_Emotion_Recognition/assets/121147984/00a3cd2f-b62f-4d07-b938-8208cc69f0b1) ![image](https://github.com/AniketBembale08/Face_Emotion_Recognition/assets/121147984/28636bc3-a272-4cdf-a207-c4162b9cfe93)
+
+
+## ⭐️Overview of Facial Emotions Detection Project
+
+The Facial Emotions Detection project is a computer vision application that aims to automatically detect and classify emotions expressed in human faces. Emotions, such as happiness, sadness, anger, fear, surprise, disgust, and neutrality, are recognized from facial expressions captured in images and real-time video streams.
 
 ## ⭐️Project Structure
 
