@@ -3,21 +3,16 @@
 
 ![image](https://github.com/AniketBembale08/Face_Emotion_Recognition/assets/121147984/00a3cd2f-b62f-4d07-b938-8208cc69f0b1)
 
-  |-- README.md
-  
-  |-- requirements.txt
-  
-  |-- face_emotion.ipynb
-  
-  |-- image_test.py
-  
-  |-- realtime_test.py
-
-  |-- models/
-  |   |-- model.h5
+Face_Emotion_Recognition/
+|-- README.md
+|-- requirements.txt
+|-- face_emotion.ipynb
+|-- image_test.py
+|-- realtime_test.py
+|-- models/
+|   |-- model.h5
 
   
-
 
 ## ⭐️Introduction
 Facial Emotions Detection is an exciting computer vision project that aims to automatically detect and classify emotions expressed in human faces. This project utilizes deep learning techniques to recognize emotions such as happiness, sadness, anger, fear, surprise, disgust, and neutrality from facial expressions captured in images and real-time video streams.
@@ -27,8 +22,8 @@ The project uses the Kaggle FER 2013 dataset, which contains labeled facial imag
 
 ## ⭐️Installation
 To run this project locally, follow these steps:
-1. Clone the repository: `git clone https://github.com/your-username/facial-emotions-detection.git`
-2. Navigate to the project directory: `cd facial-emotions-detection`
+1. Clone the repository: `git clone https://github.com/AniketBembale08/Face_Emotion_Recognition.git`
+2. Navigate to the project directory: `cd Face_Emotion_Recognition`
 3. Install the required dependencies: `pip install -r requirements.txt`
 
 ## ⭐️Training
