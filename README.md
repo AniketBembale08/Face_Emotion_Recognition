@@ -3,6 +3,7 @@
 
 ![image](https://github.com/AniketBembale08/Face_Emotion_Recognition/assets/121147984/00a3cd2f-b62f-4d07-b938-8208cc69f0b1)
 
+## ⭐️Project Structure
 Face_Emotion_Recognition/
   |-- README.md
   |-- requirements.txt
@@ -10,7 +11,7 @@ Face_Emotion_Recognition/
   |-- image_test.py
   |-- realtime_test.py
   |-- models/
-  |   |-- model.h5
+    |-- model.h5
 
   
 
